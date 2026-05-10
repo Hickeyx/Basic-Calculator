@@ -1,5 +1,7 @@
-# Basic-Calculator
-## Build Date 5/9/26
+# Basic-Calculator v0.0.1
+**Author:** Xaiver Hickey
+**Build Date 5/9/26**
+
 
 ## Project Title
 **Basic-Calculator** main goal for the project is to be able to properly; Add, Subtract, Divide, Multiply and be able to decimals within the mathmatic problem.
