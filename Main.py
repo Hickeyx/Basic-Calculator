@@ -1,6 +1,5 @@
 # Beginning of my journey
 
-
 def add(x, y):
     return x + y
 
