@@ -1,7 +1,7 @@
 # Basic-Calculator v0.0.1
 **Author:** Xaiver Hickey
 
-**Build Date 5/9/26**
+**Build Date: 5/9/26**
 
 
 ## Project Title
